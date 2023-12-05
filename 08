@@ -1,0 +1,18 @@
+// Pseudocódigo
+8.1) Declare nota1, nota2, nota3, nota4 como decimal
+8.2) Declare media as decimal
+
+8.3) Leia nota1
+8.4) Leia nota2
+8.5) Leia nota3
+8.6) Leia nota4
+
+8.7) Atribua o resultado da expressão (nota1 + nota2 + nota3 + nota4) / 4 para media
+
+8.8) Se media >= 7 então
+8.9)    Escreva "Aprovado"
+8.10) Senão Se media >= 5 então
+8.11)    Escreva "Recuperação"
+8.12) Senão
+8.13)    Escreva "Reprovado"
+8.14) Fim Se

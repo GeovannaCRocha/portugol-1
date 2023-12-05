@@ -1,0 +1,7 @@
+// Pseudocódigo
+3.1) Declare valor como decimal
+3.2) Declare resultado como decimal
+
+3.3) Leia valor
+3.4) Atribua o resultado da expressão (valor * 3) + 8 para resultado
+3.5) // Agora a variável 'resultado' contém o resultado da operação

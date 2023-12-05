@@ -1,0 +1,9 @@
+// Pseudocódigo
+1.1 Declare numero1 como inteiro
+1.2 Declare numero2 como inteiro
+1.3 Declare soma como inteiro
+
+1.4 Atribua 5 para numero1
+1.5 Atribua 8 para numero2
+1.6 Atribua a soma de numero1 e numero2 para soma
+1.7 // Agora a variável 'soma' contém a soma de numero1 e numero2

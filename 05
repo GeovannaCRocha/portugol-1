@@ -1,0 +1,9 @@
+// Pseudocódigo
+5.1) Declare altura como decimal
+
+5.2) Leia altura
+5.3) Se altura < 160 então
+5.4)    Escreva "altura insuficiente para andar no brinquedo"
+5.5) Senão
+5.6)    Escreva "aproveite"
+5.7) Fim Se

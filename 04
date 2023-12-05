@@ -1,0 +1,9 @@
+// Pseudocódigo
+4.1) Declare salarioAtual como decimal
+4.2) Declare percentualAumento como decimal
+4.3) Declare novoSalario como decimal
+
+4.4) Leia salarioAtual
+4.5) Atribua 0.1 para percentualAumento
+4.6) Atribua o resultado da expressão salarioAtual * (1 + percentualAumento) para novoSalario
+4.7) // Agora a variável 'novoSalario' contém o novo salário do funcionário com o aumento

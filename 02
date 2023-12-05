@@ -1,0 +1,9 @@
+// Pseudocódigo
+2.1) Declare precoSorvete como decimal
+2.2) Declare quantidadeSorvetes como inteiro
+2.3) Declare totalPagar como decimal
+
+2.4) Atribua 3.00 para precoSorvete
+2.5) Atribua 28 para quantidadeSorvetes
+2.6) Atribua o produto de precoSorvete e quantidadeSorvetes para totalPagar
+2.7) // Agora a variável 'totalPagar' contém o valor que Maria deverá pagar pelos sorvetes

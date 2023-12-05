@@ -1,0 +1,15 @@
+// Pseudocódigo
+10.1) Declare valorServicos as decimal
+10.2) Declare taxaCobranca as decimal
+
+10.3) Leia valorServicos
+
+10.4) Se valorServicos <= 10000 então
+10.5)    Atribua 0.1 para taxaCobranca
+10.6) Senão Se valorServicos <= 25000 então
+10.7)    Atribua 0.25 para taxaCobranca
+10.8) Senão
+10.9)    Atribua 0.35 para taxaCobranca
+10.10) Fim Se
+
+10.11) Calcule e mostre o resultado da expressão valorServicos * taxaCobranca

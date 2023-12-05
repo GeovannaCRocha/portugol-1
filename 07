@@ -1,0 +1,11 @@
+// Pseudocódigo
+7.1) Declare numero como decimal
+7.2) Declare resultado as decimal
+
+7.3) Leia numero
+7.4) Se numero < 10 então
+7.5)    Atribua o resultado da expressão numero + 5 - 8 * 6 / 2 para resultado
+7.6) Senão
+7.7)    Atribua o resultado da expressão numero + 9 - 14 para resultado
+7.8) Fim Se
+7.9) // Agora a variável 'resultado' contém o resultado da operação

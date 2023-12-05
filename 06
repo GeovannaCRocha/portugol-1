@@ -1,0 +1,9 @@
+// Pseudocódigo
+6.1) Declare salarioFuncionario como decimal
+
+6.2) Leia salarioFuncionario
+6.3) Se salarioFuncionario <= 1600 então
+6.4)    Atribua o resultado da expressão salarioFuncionario + 200 para salarioFuncionario
+6.5) Senão
+6.6)    Escreva "não receberá aumento"
+6.7) Fim Se

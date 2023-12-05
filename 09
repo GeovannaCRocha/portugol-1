@@ -1,0 +1,11 @@
+// Pseudocódigo
+9.1) Declare idade, salario as inteiro
+
+9.2) Leia idade
+9.3) Leia salario
+
+9.4) Se idade >= 20 E salario >= 1500.00 então
+9.5)    Escreva "Apto para o intercâmbio"
+9.6) Senão
+9.7)    Escreva "Não apto para o intercâmbio"
+9.8) Fim 
